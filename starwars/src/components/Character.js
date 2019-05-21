@@ -26,7 +26,8 @@ const container = {
   margin: '2px',
   padding: '5px',
   display: 'flex',
-  flexDirection: 'column'
+  flexDirection: 'column',
+  borderRadius:'15px'
 }
 
 const charName = {
