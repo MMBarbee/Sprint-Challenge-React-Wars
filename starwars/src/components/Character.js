@@ -19,10 +19,10 @@ class extends Component {
 }
 
 const container = {
-  background: '#544237',
+  background: '#544567',
   color: '#b8ab89',
   width: '300px',
-  border: '2px solid black',
+  border: 'none',
   margin: '2px',
   padding: '5px',
   display: 'flex',
@@ -31,8 +31,8 @@ const container = {
 
 const charName = {
   fontSize: '1.5rem',
-  borderBottom: '2px dashed #b8ab89',
-  paddingBottom: '5px',
+  borderBottom: '1px dashed #b8ab89',
+  paddingBottom: '8px',
   marginBottom: '8px',
   color: '#b26a4a'
 }
